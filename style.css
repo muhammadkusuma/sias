@@ -1,0 +1,10 @@
+/* carousel */
+.carousel-item{
+    height: 600px;
+    color: black;
+}
+
+.carousel-item img{
+    margin-top: -200px;
+}
+
