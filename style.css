@@ -1,10 +1,26 @@
+/* navbar */
+.navbar{
+    font-size: medium;
+    font-family: 'Poppins', sans-serif;
+    background-color: #EEF2FF;
+}
+
 /* carousel */
+.carousel{
+    padding-top: 70px;
+}
 .carousel-item{
     height: 600px;
     color: black;
 }
-
 .carousel-item img{
     margin-top: -200px;
 }
 
+/* card */
+.card-title{
+    padding-top: 20px;
+    font-size: larger;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
