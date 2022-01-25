@@ -18,9 +18,45 @@
 }
 
 /* card */
+#card{
+    padding-top: 30px;
+}
 .card-title{
-    padding-top: 20px;
+    margin-top: -10px;
     font-size: larger;
     font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+.card-heading{
+    padding-top: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+/* berita pengumuman galeri*/
+#about{
+    padding-top: 70px;
+}
+.heading{
+    padding-bottom: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.heading-info{
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.deskripsi{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
+
+.pengumuman{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
     font-weight: bold;
 }
